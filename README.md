@@ -18,6 +18,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ommahale?tab=repositories](https://github.com/ommahale?tab=repositories)
 
+- 🌐 Visit my [website](https://ommahale.vercel.app)
+
 - 💬 Ask me about **SvelteJS, Supervised Machine Learning Algorithms, Flutter**
 
 - 📫 How to reach me **www.linkedin.com/in/om-mahale-8a2487215**
