@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ommahale&label=Profile%20views&color=0e75b6&style=flat" alt="ommahale" /> </p>
 
+<img src="./header_.png"></img>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ommahale&theme=onedark" alt="ommahale" /></a> 
 
 
