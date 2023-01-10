@@ -12,13 +12,13 @@
   
 </p>
 
+- 🌐 Visit my [website](https://ommahale.vercel.app)
+
 - 🔭 I’m currently working on [News Bit Mobile application](https://github.com/ommahale/Flutter/tree/main/news_bits)
 
 - 🌱 I’m currently learning **Flutter, Machine Learning, REST API, FAST API and Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ommahale?tab=repositories](https://github.com/ommahale?tab=repositories)
-
-- 🌐 Visit my [website](https://ommahale.vercel.app)
 
 - 💬 Ask me about **SvelteJS, Supervised Machine Learning Algorithms, Flutter**
 
