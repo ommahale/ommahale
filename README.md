@@ -59,3 +59,6 @@
   Hobby:['Manga','CGI Art','3D animation']
 }
 ```
+### URL to some of my projects:
+-[gptBox](gptbox.vercel.app)
+-[My portfolio](ommahale.vercel.app)
