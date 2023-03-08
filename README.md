@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Om Mahale</h1>
 <h3 align="center">A Mobile application developer, Web Developer and ML/AI enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ommahale&label=Profile%20views&color=0e75b6&style=flat" alt="ommahale" /> </p>
 
 <img src="./header_.png"></img>
 
