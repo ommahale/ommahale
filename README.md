@@ -1,6 +1,6 @@
 <img src="./header_.png"></img>
 # 💫 About Me:
-🌐 Visit my [website](https://ommahale.vercel.app)<br><br>🔭 I’m currently working on News Bit Mobile application<br><br>🌱 I’m currently learning Flutter, Machine Learning, REST API, FAST API, NestJS and Django<br><br>👨‍💻 All of my projects are available at https://github.com/ommahale?tab=repositories<br><br>💬 Ask me about SvelteJS, Supervised Machine Learning Algorithms, Flutter, Backend Development<br><br>📫 How to reach me www.linkedin.com/in/om-mahale-8a2487215
+🌐 Visit my [website](https://ommahale.vercel.app)<br><br>🔭 I’m currently working on Bill analytics system application<br><br>🌱 I’m currently learning Flutter, Machine Learning, REST API, FAST API, NestJS and Django<br><br>👨‍💻 All of my projects are available at https://github.com/ommahale?tab=repositories<br><br>💬 Ask me about SvelteJS, Supervised Machine Learning Algorithms, Flutter, Backend Development<br><br>📫 How to reach me www.linkedin.com/in/om-mahale-8a2487215
 
 
 ## 🌐 Socials:
